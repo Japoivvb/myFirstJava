@@ -8,6 +8,12 @@ package worldcup;
  *
  * @author AdministradorCIFO
  */
-public class Person {    
+public class Person {  
+    int age;
+    
+    
+    public void run(){
+            System.out.println("running");
+        }
     
 }

@@ -4,10 +4,19 @@
  */
 package worldcup;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author AdministradorCIFO
  */
 public class Team {
+    String name;
+    ArrayList<Player> players;
+    
+    
+    public void play(){
+            System.out.println("playing");
+        }
     
 }

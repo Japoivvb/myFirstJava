@@ -8,5 +8,11 @@ package worldcup;
  *
  * @author AdministradorCIFO
  */
-public class Goalkeeper {
+public class Goalkeeper extends Player{
+    boolean globes;
+    
+    
+    public void catchBall(){
+            System.out.println("catching");
+        }
 }
