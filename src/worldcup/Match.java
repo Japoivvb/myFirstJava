@@ -20,9 +20,10 @@ public class Match {
         int variableMethod;
         
         System.out.println("starting application");
-        
-        //TODO create referee
-        
+
+        // Create Referee
+        Referee referee = new Referee();
+
         // create players team A
         Goalkeeper goalkeeperA = new Goalkeeper();
         Defender defender1 = new Defender();
