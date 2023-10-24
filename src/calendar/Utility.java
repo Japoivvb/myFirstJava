@@ -15,8 +15,7 @@ public class Utility {
     public final static int XX_CENTURY = 2000;
     
     
-     public String getCurrentYear() {        
-        // TODO code application logic here
+     public String getCurrentYear() {  
         //System.out.println("in method");
         int currentYear = 0;
         currentYear = LocalDate.now().getYear();
