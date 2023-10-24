@@ -7,7 +7,7 @@ public class Forward {
 
     }
     public void kick(Ball ball){
-
+    //
     }
 
 }
