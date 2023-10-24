@@ -24,7 +24,8 @@ public class Match {
         //TODO create referee
         
         // create players team A
-        Goalkeeper goalkeeperA = new Goalkeeper();        
+        Goalkeeper goalkeeperA = new Goalkeeper();
+        Defender defender1 = new Defender();
         //TODO create 4 defender players for teamA                
         //TODO create midfielder players for teamA
         //TODO 2 forward players for teamA
