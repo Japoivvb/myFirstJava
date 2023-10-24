@@ -30,6 +30,7 @@ public class Match {
         Defender defender2 = new Defender();
         Defender defender3 = new Defender();
         Defender defender4 = new Defender();
+        Defender defender5 = new Defender();
 
 
         //TODO create 4 defender players for teamA                
