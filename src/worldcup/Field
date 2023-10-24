@@ -1,0 +1,8 @@
+public class Field {
+int size;
+
+public void light(){
+    System.out.println("lighting");}
+    //method created//
+
+}
