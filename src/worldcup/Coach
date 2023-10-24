@@ -1,0 +1,11 @@
+package worldcup;
+
+public class Coach extends Person{
+
+    boolean active;
+
+    public void train(){
+
+    }
+
+}
